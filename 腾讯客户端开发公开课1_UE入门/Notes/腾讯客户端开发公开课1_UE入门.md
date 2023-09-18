@@ -8,7 +8,7 @@
 
 ## UE引擎
 
-![Untitled](.\imgs\Untitled.png)
+![Untitled](..\imgs\Untitled.png)
 
 ### 相关游戏
 
