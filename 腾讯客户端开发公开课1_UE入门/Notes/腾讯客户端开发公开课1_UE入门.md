@@ -25,7 +25,7 @@
 
 ## Unity3D
 
-![Untitled](Untitled%201.png)
+![Untitled](../imgs/Untitled%201.png)
 
 ### 相关游戏
 
@@ -33,7 +33,7 @@
 
 ## CryEngine V
 
-![Untitled](Untitled%202.png)
+![Untitled](../imgs/Untitled%202.png)
 
 ### 相关游戏
 
@@ -49,7 +49,7 @@ Wiki：
 
 ## Open3D Engine
 
-![Untitled](Untitled%203.png)
+![Untitled](../imgs/Untitled%203.png)
 
 ### 特点
 
@@ -63,7 +63,7 @@ Wiki：
 
 ## Source2
 
-![Untitled](Untitled%204.png)
+![Untitled](../imgs/Untitled%204.png)
 
 ### 介绍
 
@@ -71,7 +71,7 @@ Wiki：
 
 ## 寒霜引擎 Frostbite Engine
 
-![Untitled](Untitled%205.png)
+![Untitled](../imgs/Untitled%205.png)
 
 ### 介绍
 
@@ -154,7 +154,7 @@ EA的引擎，战地、星球大战、FIFA、植物大战僵尸、极品飞车�
 
 三角形数据正常渲染，经过定点处理、裁剪、参数缓存、早期可见性测试、纹理着色、透明度测试、可见性测试（深度测试）、透明混合
 
-![IMR.jpg](IMR.jpg)
+![IMR.jpg](../imgs/IMR.jpg)
 
 用于PC桌面游戏，GPU与主存有大量交互，带宽要求很高，能耗很高。
 
@@ -164,13 +164,13 @@ EA的引擎，战地、星球大战、FIFA、植物大战僵尸、极品飞车�
 
 数据量较小，避免了带宽和功耗的问题，可以在GPU片上处理，不用经过主存。
 
-![TBR.webp](TBR.webp)
+![TBR.webp](../imgs/TBR.webp)
 
 ### TBDR: Tile Based Defered Rendering
 
 Defered主要指光栅化之后HSR，把看不到的东西提前Remove掉，免得进行不必要的计算
 
-![TBR.webp](TBR.webp)
+![TBR.webp](../imgs/TBR.webp)
 
 ## 游戏引擎：物理
 
@@ -341,7 +341,7 @@ UE数据处理的特色，例如相同的资源PC平台和移动平台可能贴�
 1. 注册UE官方账号
 2. GitHub账户绑定EpicGame账号
 
-![Untitled](Untitled%206.png)
+![Untitled](../imgs/Untitled%206.png)
 
 1. 在Github对应的邮箱里点击加入UnrealEngine的组织
 
@@ -359,14 +359,14 @@ UE数据处理的特色，例如相同的资源PC平台和移动平台可能贴�
 1. 在下载目录运行setup.bat下载依赖文件
 2. 运行GenerateProjectFiles.bat生成工程文件
 
-![Untitled](Untitled%207.png)
+![Untitled](../imgs/Untitled%207.png)
 
 1. 右键用VisualStudio打开.sln文件
 2. 生成项目（注意可以提前设置大一点虚拟内存↓），时间略长
 
 [编译UE4时error C3859: 超过了 PCH 的虚拟内存范围问题解决](https://zhuanlan.zhihu.com/p/109178480)
 
-![Untitled](Untitled%208.png)
+![Untitled](../imgs/Untitled%208.png)
 
 1. 在编译目录下的\Engine\Binaries\Win64找到UnrealEditor.exe(UE5编译生成的是UnrealEditor.exe, UE4编译生成的是UnrealEditor4.exe)
 
@@ -395,9 +395,9 @@ UE数据处理的特色，例如相同的资源PC平台和移动平台可能贴�
     
 2. 在PC预览
 
-![Untitled](Untitled%209.png)
+![Untitled](../imgs/Untitled%209.png)
 
-![Untitled](Untitled%2010.png)
+![Untitled](../imgs/Untitled%2010.png)
 
 1. 打包
     
@@ -406,23 +406,23 @@ UE数据处理的特色，例如相同的资源PC平台和移动平台可能贴�
 
 ***（注意：比较耗时，可以不试）也可以直接在手机上直接运行（手机连接电脑后直接play）***
 
-![Untitled](Untitled%2011.png)
+![Untitled](../imgs/Untitled%2011.png)
 
 初次打包时间较久，后面重新打包在一分半左右。
 
-![Untitled](Untitled%2012.png)
+![Untitled](../imgs/Untitled%2012.png)
 
 1. 成果
 
-![Untitled](Untitled.jpeg)
+![Untitled](../imgs/Untitled.jpeg)
 
 其他问题：
 
 1. Intel HAXM安装失败-打开log显示系统不支持：
 
-![Untitled](Untitled%2013.png)
+![Untitled](../imgs/Untitled%2013.png)
 
-![Untitled](Untitled%2014.png)
+![Untitled](../imgs/Untitled%2014.png)
 
 解决：在下面链接的方法4修复
 
@@ -430,11 +430,11 @@ UE数据处理的特色，例如相同的资源PC平台和移动平台可能贴�
 
 1. 不能通过bat安装apk
 
-![Untitled](Untitled%2015.png)
+![Untitled](../imgs/Untitled%2015.png)
 
 解决：看下是否没有打开手机的“通过USB安装”
 
-![Untitled](Untitled%2016.png)
+![Untitled](../imgs/Untitled%2016.png)
 
 # UE编程技巧
 
@@ -482,7 +482,7 @@ UE数据处理的特色，例如相同的资源PC平台和移动平台可能贴�
 
 ## 蓝图
 
-![BluePrintsWithCpp.png](BluePrintsWithCpp.png)
+![BluePrintsWithCpp.png](../imgs/BluePrintsWithCpp.png)
 
 是一种特殊的资产，编译后产生对应字节码，运行时由蓝图虚拟机解释执行
 
