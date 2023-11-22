@@ -74,11 +74,11 @@
     - 重点：
         - 内积可以用来求投影：向量与某方向单位向量点乘即得到在该方向上的投影模长
         
-        ![Untitled](%E8%85%BE%E8%AE%AF%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E5%85%AC%E5%BC%80%E8%AF%BE(%E4%B8%89)%20C++%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83%E4%B8%8E%E6%B8%B8%E6%88%8F3D%E6%95%B0%E5%AD%A6%2014422461414f45a18af6a496fa913884/Untitled.png)
+        ![Untitled](.imgs/Untitled.png)
         
         - 内积可以用来求反射：
         
-        ![Untitled](%E8%85%BE%E8%AE%AF%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E5%85%AC%E5%BC%80%E8%AF%BE(%E4%B8%89)%20C++%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83%E4%B8%8E%E6%B8%B8%E6%88%8F3D%E6%95%B0%E5%AD%A6%2014422461414f45a18af6a496fa913884/Untitled%201.png)
+        ![Untitled](.imgs/Untitled 1.png)
         
 - 外积
     - 重点：
@@ -161,7 +161,7 @@
     1. 性能要求高的适合C++，其他都可以用蓝图
 2. 四元数和欧拉角怎么转换？
 
-![Untitled](%E8%85%BE%E8%AE%AF%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E5%85%AC%E5%BC%80%E8%AF%BE(%E4%B8%89)%20C++%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83%E4%B8%8E%E6%B8%B8%E6%88%8F3D%E6%95%B0%E5%AD%A6%2014422461414f45a18af6a496fa913884/Untitled%202.png)
+![Untitled](.imgs/Untitled 2.png)
 
 [三维旋转：欧拉角、四元数、旋转矩阵、轴角之间的转换](https://zhuanlan.zhihu.com/p/45404840)
 
