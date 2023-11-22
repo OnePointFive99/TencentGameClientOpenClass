@@ -1,2 +1,1 @@
-# TencentGameClientOpenClass
-Notes of Tencent Game Client Open Class
+# 2023腾讯游戏客户端公开课笔记
